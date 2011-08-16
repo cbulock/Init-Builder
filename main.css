@@ -1,0 +1,38 @@
+body {
+font-family: 'Lucida Grande', Verdana, Tahoma, Arial, Sans-Serif;
+font-size:0.8em;
+margin:2em 4em;
+}
+
+h1 a {
+text-decoration: none;
+}
+
+h3 {
+padding:.5em;
+background-color:#CCC;
+width:19em;
+}
+
+div {
+margin:2em;
+}
+
+form {
+padding:.25em;
+background-color:#DDD;
+border: 1px solid #808080;
+}
+
+label {
+margin:4px;
+padding:8px 4px;
+background-color:#E6E6E6;
+}
+
+#init {
+margin:2em;
+font-size:1.5em;
+font-weight:bold;
+}
+
